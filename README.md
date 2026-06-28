@@ -3,7 +3,7 @@
 This is my first Unity project, built by following a beginner unity tutorial.  
 You can play the game here:
 
-https://play.unity.com/mg/your-game-link-here
+https://play.unity.com/en/games/ca5f2211-e6f1-49da-b218-91f82f74097d/sprite-swim
 
 ## About the Project
 - Built in Unity 6000.4.7f1
