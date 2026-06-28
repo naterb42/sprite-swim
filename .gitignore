@@ -1,0 +1,58 @@
+[Libraries]
+[Libraries]/
+[Libraries]/*
+[Libraries]/**
+
+[Libraries]/
+[Libraries]/*
+[Libraries]/**
+
+[Libraries]/
+[Libraries]/*
+[Libraries]/**
+
+# Unity generated folders
+[Libraries]/
+[Libraries]/*
+[Libraries]/**
+
+[Libraries]/
+[Libraries]/*
+[Libraries]/**
+
+# Unity
+[Libraries]/
+[Libraries]/*
+[Libraries]/**
+
+# Ignore these Unity folders
+[Libraries]/
+[Libraries]/*
+[Libraries]/**
+
+# Unity recommended ignores
+[Libraries]/
+[Libraries]/*
+[Libraries]/**
+
+# Unity auto-generated
+[Libraries]/
+[Libraries]/*
+[Libraries]/**
+
+# Unity folders
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+
+# Builds
+Build/
+Builds/
